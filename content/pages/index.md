@@ -6,8 +6,9 @@ sections:
       Hola, Somos Grupo Cortesía y estamos para ayudar al mejor recurso de tu
       empresa, Tu Talento Humano.
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      Nosotros tenemos los profesionales y las herramientas para acompañar y
+      lograr que el Recurso Humano de Tu Empresa, esté conectado y en Sintonía
+      con tu Visión y Misión Empresarial.
     actions:
       - label: Contact Me
         url: /contact
